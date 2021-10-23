@@ -1,0 +1,26 @@
+body{
+    background-image:url("img_1.jpg");
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size:xxx-large;
+    color:yellow;
+    font-style:italic;
+}
+
+h3{
+    text-align: center;
+    color:rgb(229, 255, 0);
+}
+
+#span1{
+    color:rgb(255, 0, 0);
+}
+
+#Canvas1{
+    border:10px ridge yellow;
+    background-color:white;
+    margin-left:50px;
+}
